@@ -25,8 +25,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+
 <p>
-/>![image](https://github.com/user-attachments/assets/cb93bb0d-3d1f-42e2-8847-99e7bb94fffa)
+[/>![image](https://github.com/user-attachments/assets/cb93bb0d-3d1f-42e2-8847-99e7bb94fffa)](https://cdn.discordapp.com/attachments/1316490806072442950/1316490898195873883/image.png?ex=675b3d31&is=6759ebb1&hm=9d1279b8e96a543e503a46bd716673d602d5c0619921e8229afdaf02dc42fe7b&)
 
 </p>
 <p>

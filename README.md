@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-step 1.png
+!{image alt}(step 1.png)
 
 
 </p>

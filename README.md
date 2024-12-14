@@ -27,7 +27,6 @@ github.com/user-attachments/assets/a7d2f0ab-a89c-4166-ada6-a136c68cbfd0)
 
 </p>
 <p>
-So first we would install OS ticket and extract all the files to our desktpop.
 </p>
 <br />
 

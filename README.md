@@ -2,13 +2,14 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Installation</h1>
-This outlines the installation of the open-source help desk ticketing system osTicket.<br />
+<h1>How to install osTicket</h1>
+This is a easy tutorial on how to install a help desk ticketing system called osTicket.<br />
 
-<h2>Environments and Technologies Used</h2>
+<h2>Software and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Windows 10 (Build 19044)
+- Microsoft Azure (Virtual Machines)
+- Remote Desktop (RDP)
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>

@@ -82,7 +82,9 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <p>
 <h3 align="center">Download the Rewrite Module file, agree with all the terms and it should now be installed onto the Computer.</h3>
 <p>
-  <img src="https://github.com/Joeljjoseph1998/osticket-prereqs/assets/50834280/28cf2dd0-d39e-45f8-a01b-61aec6657228"height="75%" width="100%"/>
+ 
+ ![85](https://github.com/user-attachments/assets/6e353505-9ac4-4ad3-8699-78123c09ff65)
+
 </p>
 <br/>
 <h3 align="center">CREATE DIRECTORY C:\PHP</h3>

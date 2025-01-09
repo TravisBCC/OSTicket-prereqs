@@ -93,7 +93,9 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h3 align="center"> Open File Explorer, type, "C:\" in the search bar, Right-click and create a new folder called, "PHP". Download php-7.3.8-nts-Win32-VC15-x86.zip from<a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> Files You Need to Download</a>, Extract it by going to where you download the file, Right-click the PHP 7.3.8 file and press extract to the PHP Folder you just created.
 </h3>
 <p>
-  <img src="https://github.com/Joeljjoseph1998/osticket-prereqs/assets/50834280/18746085-a3cf-4f1f-b0d5-5cd73f969319"height="75%" width="100%"/>
+
+  ![96](https://github.com/user-attachments/assets/cf97aff7-9b51-423c-b034-1e9ed88490ac)
+
 </p>
 <br/>
 <h3 align="center">VC_REDIST DOWNLOAD</h3>

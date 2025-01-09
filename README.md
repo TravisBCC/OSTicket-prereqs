@@ -64,7 +64,9 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h3 align="center">Once clicked, find the "Internet Information Services" expand it and then expand the "World Wide Web" tab. Afterward, expand the application Developer tab. Finally check the "CGI" button & press Ok. You will need CGI to download the PHP Manager. The PHP manager is a back-end web programming language that allows osTicket to run off a web browser.</h3>
 <br />
 <p>
-  <img src="https://github.com/Joeljjoseph1998/osticket-prereqs/assets/50834280/a6af9c35-e10c-4d7e-b2c8-30ffbe128f08" height="75%" width="100%"/>
+  
+![67](https://github.com/user-attachments/assets/5da9c661-7663-49e8-8022-8aa1e1d0776d)
+
 </p>
 <br />
 <h3 align="center">Install PHP Manager</h3>
